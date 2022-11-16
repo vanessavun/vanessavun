@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vanessa</h1>
 <h3 align="center">A frontend developer/clinical lab scientist from the SF Bay Area</h3>
 
-- 🔭 I’m currently working on [Sample Batch Kanban Board](https://github.com/vanessavun/labtech)
+- 🔭 I’m currently working on [Coolab, a collab project with the Napice fellowship](https://github.com/coolab-inc/coolab-react)
 
 - 🌱 I’m currently learning **React.js**
 

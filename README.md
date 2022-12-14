@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vanessa</h1>
 <h3 align="center">A frontend developer from the SF Bay Area</h3>
 
-- 🔭 I’m currently working on [Coolab, a collab project with the Napice fellowship](https://github.com/coolab-inc/coolab-react)
+- 🔭 I’m currently working on redoing my portfolio
 
 - 🌱 I’m currently learning **React.js**
 

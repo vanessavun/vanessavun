@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vanessa</h1>
-<h3 align="center">A frontend developer from the SF Bay Area</h3>
+<h3 align="center">A Software developer from the SF Bay Area</h3>
 
 - 🔭 I’m currently working on redoing my portfolio
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vanessavun](https://github.com/vanessavun)
 

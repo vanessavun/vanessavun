@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vanessa</h1>
 <h3 align="center">A Software developer from the SF Bay Area</h3>
 
-- 🔭 I’m currently working on a **developing a page for Seminaut, Inc and Hack for LA**
-
-- 🌱 I’m currently learning **how to Git effectively**
+- 🔭 I’m currently working at SciShield as a Front-End Engineer
 
 - 👨‍💻 All of my projects are available at [https://github.com/vanessavun](https://github.com/vanessavun)
 
-- 💬 Ask me about **my job search**
+- 💬 Ask me about **my job**
 
 - 📫 How to reach me **vanessavun at gmail**
 
 - 😄 Pronouns: she/her
 
-- ⚡ Fun fact **I have been bouldering/climbing for 6 years**
+- ⚡ Fun fact **I have been bouldering/climbing for 7 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vanessa</h1>
 <h3 align="center">A Software developer from the SF Bay Area</h3>
 
-- 🔭 I’m currently working at SciShield as a Front-End Engineer
+- 🔭 I’m working at SciShield as a Front-End Engineer
 
-- 👨‍💻 All of my projects are available at [https://github.com/vanessavun](https://github.com/vanessavun)
+- 👨‍💻 Current side project: Writing/designing/developing a Visual Novel Game via RenPy
 
 - 💬 Ask me about **my job**
 

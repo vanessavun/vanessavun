@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vanessa</h1>
 <h3 align="center">A Software developer from the SF Bay Area</h3>
 
-- 🔭 I’m working at SciShield as a Front-End Engineer
-
 - 👨‍💻 Current side project: Writing/designing/developing a Visual Novel Game via RenPy
 
-- 💬 Ask me about **my job**
+- 💬 Ask me about **my journey breaking into tech**
 
 - 📫 How to reach me **vanessavun at gmail**
 
 - 😄 Pronouns: she/her
 
-- ⚡ Fun fact **I have been bouldering/climbing for 7 years**
+- ⚡ Fun fact **I have been bouldering/climbing for nearly 10 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,8 +3,6 @@
 
 - 👨‍💻 Current side project: Writing/designing/developing a Visual Novel Game via RenPy
 
-- 💬 Ask me about **my journey breaking into tech**
-
 - 📫 How to reach me **vanessavun at gmail**
 
 - 😄 Pronouns: she/her
